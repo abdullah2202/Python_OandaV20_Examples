@@ -9,7 +9,7 @@ response = requests.get(url, params=querystring)
 
 print(response.json())
 
-# print(api.key)
+print(api.key)
                           
 
 
